@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafess
-- 👀 I’m interested in FrontEnd development.
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on FrontEnd Develoments.
+- 💞️ I’m looking to collaborate with the Web Community to improve the Web Development.
 - 📫 How to reach me: rafadvcoliveira@gmail.com.
 
 <!---
