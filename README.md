@@ -1,7 +1,16 @@
+# Rafael de Oliveira
 - 👋 Hi, I’m @Rafess
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate with the Web Community to improve the Web Development.
+- 👀 I’m interested in Full-Stack Web Development.
+- :computer: I'm an Entry Level FrontEnd Web Developer.
+- Here are some technologies I know: 
+    - JavaScript, 
+    - HTML5, 
+    - CSS3, 
+    - Angular 3, 
+    - TypeScript, 
+    - Git.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate with the Web Community to improve it as a whole.
 - 📫 How to reach me: rafadvcoliveira@gmail.com.
 
 <!---
