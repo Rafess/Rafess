@@ -9,6 +9,7 @@
     - Angular 3, 
     - TypeScript, 
     - Git.
+    - Java
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate with the Web Community to improve it as a whole.
 - 📫 How to reach me: rafadvcoliveira@gmail.com.
