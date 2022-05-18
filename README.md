@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Rafess
 - :smiling_face_with_three_hearts: I love technology, mainly the web.
 - :computer: I'm a Full-Stack Web Developer.
-- Here are some technologies I'm constatly learning: 
+<details> <summary>- Here are some technologies I'm constatly learning:</summary> 
     - JavaScript, 
     - HTML5, 
     - CSS3, 
@@ -13,6 +13,7 @@
     - Java,
     - Spring Framework,
     - Git.
+    </details>
 - 💞️ I’m looking to collaborate with the Web Community to improve it as a whole, and bring accessibility to everyone.
 - 📫 How to reach me: rafadvcoliveira@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/rafess/
