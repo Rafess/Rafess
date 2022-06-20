@@ -18,6 +18,8 @@
 * `SQL`;
 * `NoSQL`;
 * `PHP`;
+* `C#`;
+* `ASP .NET`;
     
 </details>
 
