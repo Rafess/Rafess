@@ -2,11 +2,11 @@
 ## :computer: I'm a Full-Stack Web Developer.
 
 
-<div>
+<!-- <div>
     <a href="https://vercel.com/rafess"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafess&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafess&layout=compact&langs_count=16&theme=aura"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafess-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
