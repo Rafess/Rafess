@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rafess
 ## :computer: I'm a Full-Stack Web Developer, specializing in front-end development. 
-### I'm currently working as a Full-Stack developer at WeDrop, a Dropshiping company. I'm the main developer at the front-end.
+### I'm currently working as a Full-Stack developer at WeDrop, a Dropshiping company. Right now, I'm the team's main front-end developer.
 
 
 <!-- <div>
