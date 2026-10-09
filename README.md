@@ -36,7 +36,6 @@ The project brings together mobile, web, and backend development to streamline r
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rafess)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rafadvcoliveira@gmail.com)
 
 [Explore my repositories](https://github.com/Rafess?tab=repositories)
 
