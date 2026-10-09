@@ -1,39 +1,48 @@
-# 👋 Hi, I’m Rafess
-## :computer: I'm a Full-Stack Web Developer. 
-### I'm currently working as a Full-Stack developer at WeDrop, a Brazilian Dropshiping company. Right now, I'm the primary developer on the WMS team.
-#### Working on the Dropshipping and WMS projects at WeDrop.
+# Hi, I'm Rafael (Rafess) 👋
 
+### Full-Stack Developer | TypeScript · React · Node.js
 
-<!-- <div>
-    <a href="https://vercel.com/rafess"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafess&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafess&layout=compact&langs_count=16&theme=aura"/>
-</div> -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafess-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafess-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafess-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafess-MongoDb" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Rafess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafess-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Rafess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Rafess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Rafess-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Rafess-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafess-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafess-php" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Rafess-MongoDb" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Rafess-MongoDb" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-</div>
+I'm a software developer with professional experience building and maintaining full-stack applications, REST APIs, and third-party integrations. My experience includes warehouse management systems (WMS), with workflows for inventory, order processing, picking, packing, and returns.
 
-##
+I work across the stack, connecting user interfaces with backend services and turning business requirements into reliable, maintainable software.
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, JavaScript
+**Frontend:** React, React Native, HTML, CSS
+**Backend:** Node.js, Express.js, REST APIs, Socket.IO
+**Databases & Data Access:** MySQL, MongoDB, Prisma, Mongoose
+**Tools:** Git, GitHub, Vite
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,prisma,mysql,mongodb,git,github" alt="TypeScript, JavaScript, React, Node.js, Express, Prisma, MySQL, MongoDB, Git and GitHub" />
+</p>
+
+## 🚀 Featured Project
+
+### [WaiterApp](https://github.com/Rafess/WaiterApp)
+
+[Live Demo](https://waiter-app-sage.vercel.app)
+
+A restaurant order management application that connects a mobile app for waiters with a web dashboard for the kitchen.
+
+* **Web & Mobile:** React, TypeScript, React Native
+* **Backend:** Node.js, Express.js
+* **Real-time communication:** Socket.IO
+* **Database:** MongoDB
+
+The project brings together mobile, web, and backend development to streamline restaurant order management and keep kitchen updates synchronized in real time.
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rafess)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rafadvcoliveira@gmail.com)
+
+[Explore my repositories](https://github.com/Rafess?tab=repositories)
 
 <div> 
   <a href = "mailto:rafadvcoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/Rafess/Rafess/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-
 
