@@ -40,8 +40,8 @@ The project brings together mobile, web, and backend development to streamline r
 [Explore my repositories](https://github.com/Rafess?tab=repositories)
 
 <div> 
-  <a href = "mailto:rafadvcoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   ![Snake animation](https://github.com/Rafess/Rafess/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
